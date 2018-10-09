@@ -1,0 +1,450 @@
+1539069164530	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.YJByfrKSIToW"
+1539069166022	Marionette	INFO	Listening on port 44307
+1539069166113	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539069166159	Marionette	DEBUG	[2147483649] Frame script loaded
+1539069166171	Marionette	DEBUG	[2147483649] Frame script registered
+[Parent 12325, Gecko_IOThread] WARNING: pipe error (41): Connection reset by peer: file /build/firefox-IVlCbR/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1539069179442	Marionette	INFO	Stopped listening on port 44307
+1539069185038	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.DL7f5zH2AKcs"
+1539069186414	Marionette	INFO	Listening on port 44029
+1539069186447	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539069186495	Marionette	DEBUG	[2147483649] Frame script loaded
+1539069186538	Marionette	DEBUG	[2147483649] Frame script registered
+[Parent 13150, Gecko_IOThread] WARNING: pipe error (41): Connection reset by peer: file /build/firefox-IVlCbR/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1539069220790	Marionette	INFO	Stopped listening on port 44029
+1539069237664	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.5LpB8UbBTa9z"
+1539069238909	Marionette	INFO	Listening on port 43567
+1539069239016	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539069239064	Marionette	DEBUG	[2147483649] Frame script loaded
+1539069239114	Marionette	DEBUG	[2147483649] Frame script registered
+1539069239156	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1539069240118	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1539069240401	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.google.com/
+1539069243154	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.google.com/
+1539069244110	Marionette	INFO	Stopped listening on port 43567
+1539069265334	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.5jgbUajB57Zn"
+1539069266748	Marionette	INFO	Listening on port 41159
+1539069266961	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539069267004	Marionette	DEBUG	[2147483649] Frame script loaded
+1539069267005	Marionette	DEBUG	[2147483649] Frame script registered
+1539069267022	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1539069267481	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1539069268416	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://testphp.vulnweb.com/
+1539069268628	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://testphp.vulnweb.com/
+[Parent 14878, Gecko_IOThread] WARNING: pipe error (42): Connection reset by peer: file /build/firefox-IVlCbR/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1539069273908	Marionette	INFO	Stopped listening on port 41159
+1539069401056	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.2YcY12Zwb19p"
+1539069402432	Marionette	INFO	Listening on port 38579
+1539069402498	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539069402546	Marionette	DEBUG	[2147483649] Frame script loaded
+1539069402553	Marionette	DEBUG	[2147483649] Frame script registered
+1539069402634	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1539069403264	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1539069403795	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://testphp.vulnweb.com/
+1539069404079	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://testphp.vulnweb.com/
+1539069439986	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.eqlu0Zep03Vs"
+1539069441359	Marionette	INFO	Listening on port 40007
+1539069441403	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539069441460	Marionette	DEBUG	[2147483649] Frame script loaded
+1539069441516	Marionette	DEBUG	[2147483649] Frame script registered
+1539069441551	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1539069442067	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+[Parent 15797, Gecko_IOThread] WARNING: pipe error (42): Connection reset by peer: file /build/firefox-IVlCbR/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1539069442650	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://testphp.vulnweb.com/
+1539069442673	Marionette	INFO	Stopped listening on port 38579
+1539069442901	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://testphp.vulnweb.com/
+1539069480208	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.RSGWeGNBmlMD"
+1539069481605	Marionette	INFO	Listening on port 34667
+1539069481620	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539069481680	Marionette	DEBUG	[2147483649] Frame script loaded
+1539069481742	Marionette	DEBUG	[2147483649] Frame script registered
+1539069481777	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1539069482391	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+[Parent 16624, Gecko_IOThread] WARNING: pipe error (42): Connection reset by peer: file /build/firefox-IVlCbR/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1539069482993	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://testphp.vulnweb.com/
+1539069482995	Marionette	INFO	Stopped listening on port 40007
+1539069483203	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://testphp.vulnweb.com/
+1539069552587	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Shwu2gl6FD2S"
+1539069554013	Marionette	INFO	Listening on port 34669
+1539069554242	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539069554289	Marionette	DEBUG	[2147483649] Frame script loaded
+1539069554290	Marionette	DEBUG	[2147483649] Frame script registered
+1539069554309	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1539069554749	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+[Parent 17444, Gecko_IOThread] WARNING: pipe error (43): Connection reset by peer: file /build/firefox-IVlCbR/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1539069555355	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://testphp.vulnweb.com/
+1539069555498	Marionette	INFO	Stopped listening on port 34667
+1539069555554	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://testphp.vulnweb.com/
+[Parent 18283, Gecko_IOThread] WARNING: pipe error (54): Connection reset by peer: file /build/firefox-IVlCbR/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1539069568523	Marionette	INFO	Stopped listening on port 34669
+1539069613142	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.H20BpSrNrksz"
+1539069614473	Marionette	INFO	Listening on port 40331
+1539069614674	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539069614725	Marionette	DEBUG	[2147483649] Frame script loaded
+1539069614731	Marionette	DEBUG	[2147483649] Frame script registered
+1539069614760	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1539069615193	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1539069615701	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://testphp.vulnweb.com/
+1539069615906	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://testphp.vulnweb.com/
+1539069689835	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.lIwIcFWgoCvO"
+1539069691169	Marionette	INFO	Listening on port 45995
+1539069691284	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539069691337	Marionette	DEBUG	[2147483649] Frame script loaded
+1539069691388	Marionette	DEBUG	[2147483649] Frame script registered
+1539069691446	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1539069691881	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+[Parent 19123, Gecko_IOThread] WARNING: pipe error (42): Connection reset by peer: file /build/firefox-IVlCbR/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1539069692437	Marionette	INFO	Stopped listening on port 40331
+1539069692719	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://testphp.vulnweb.com/
+1539069692934	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://testphp.vulnweb.com/
+1539069770652	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.HamG26vHBXAq"
+1539069772077	Marionette	INFO	Listening on port 45137
+1539069772178	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539069772226	Marionette	DEBUG	[2147483649] Frame script loaded
+1539069772281	Marionette	DEBUG	[2147483649] Frame script registered
+1539069772344	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1539069772834	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1539069773389	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://testphp.vulnweb.com/
+1539069773618	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://testphp.vulnweb.com/
+1539069783510	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.mQbohGCYDqCe"
+1539069784769	Marionette	INFO	Listening on port 41549
+1539069784882	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539069784940	Marionette	DEBUG	[2147483649] Frame script loaded
+1539069784997	Marionette	DEBUG	[2147483649] Frame script registered
+1539069785059	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1539069785496	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1539069786317	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://testphp.vulnweb.com/
+1539069786587	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://testphp.vulnweb.com/
+[Parent 20793, Gecko_IOThread] WARNING: pipe error (42): Connection reset by peer: file /build/firefox-IVlCbR/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1539069791350	Marionette	INFO	Stopped listening on port 45137
+[Parent 21612, Gecko_IOThread] WARNING: pipe error (42): Connection reset by peer: file /build/firefox-IVlCbR/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1539069792433	Marionette	INFO	Stopped listening on port 41549
+[Parent 19956, Gecko_IOThread] WARNING: pipe error (42): Connection reset by peer: file /build/firefox-IVlCbR/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1539069793242	Marionette	INFO	Stopped listening on port 45995
+1539069817351	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.787LaVuzOuTM"
+1539069818629	Marionette	INFO	Listening on port 33931
+1539069818730	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539069818776	Marionette	DEBUG	[2147483649] Frame script loaded
+1539069818840	Marionette	DEBUG	[2147483649] Frame script registered
+1539069818902	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1539069819444	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1539069819940	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://testphp.vulnweb.com/
+1539069820726	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://testphp.vulnweb.com/
+1539069839234	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.nTC7ckf1RfJR"
+1539069840422	Marionette	INFO	Stopped listening on port 33931
+1539069840774	Marionette	INFO	Listening on port 38793
+1539069840854	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539069840904	Marionette	DEBUG	[2147483649] Frame script loaded
+1539069840949	Marionette	DEBUG	[2147483649] Frame script registered
+1539069840967	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1539069841449	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1539069842239	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://testphp.vulnweb.com/
+1539069842491	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://testphp.vulnweb.com/
+1539069972990	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Cyt3yk0asuMY"
+1539069974348	Marionette	INFO	Listening on port 42343
+1539069974508	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539069974557	Marionette	DEBUG	[2147483649] Frame script loaded
+1539069974613	Marionette	DEBUG	[2147483649] Frame script registered
+1539069974653	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1539069977885	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1539069978646	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://testphp.vulnweb.com/
+1539069979455	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://testphp.vulnweb.com/
+1539070248663	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.ZOnkWEwsDtf2"
+1539070250088	Marionette	INFO	Listening on port 35145
+1539070250406	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539070250457	Marionette	DEBUG	[2147483649] Frame script loaded
+1539070250459	Marionette	DEBUG	[2147483649] Frame script registered
+1539070250475	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1539070250976	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1539070251729	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://testphp.vulnweb.com/
+1539070251942	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://testphp.vulnweb.com/
+[Parent 24159, Gecko_IOThread] WARNING: pipe error (59): Connection reset by peer: file /build/firefox-IVlCbR/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1539070257099	Marionette	INFO	Stopped listening on port 42343
+[Parent 25083, Gecko_IOThread] WARNING: pipe error (42): Connection reset by peer: file /build/firefox-IVlCbR/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1539070260644	Marionette	INFO	Stopped listening on port 35145
+1539070298314	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.vj1PP2QjFmUP"
+1539070299807	Marionette	INFO	Listening on port 44031
+1539070299834	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539070299884	Marionette	DEBUG	[2147483649] Frame script loaded
+1539070299936	Marionette	DEBUG	[2147483649] Frame script registered
+1539070299959	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1539070300595	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+[Parent 23268, Gecko_IOThread] WARNING: pipe error (54): Connection reset by peer: file /build/firefox-IVlCbR/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1539070301262	Marionette	INFO	Stopped listening on port 38793
+1539070301412	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://testphp.vulnweb.com/
+1539070301669	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://testphp.vulnweb.com/
+1539070321815	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.XWEji9WASoVf"
+1539070323199	Marionette	INFO	Listening on port 44379
+1539070323224	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539070323280	Marionette	DEBUG	[2147483649] Frame script loaded
+1539070323356	Marionette	DEBUG	[2147483649] Frame script registered
+1539070323377	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1539070324150	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1539070324966	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://testphp.vulnweb.com/
+1539070325588	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://testphp.vulnweb.com/
+[Parent 25955, Gecko_IOThread] WARNING: pipe error (42): Connection reset by peer: file /build/firefox-IVlCbR/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1539070326181	Marionette	INFO	Stopped listening on port 44031
+1539070412806	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.kmPax1Gumlq2"
+1539070414068	Marionette	INFO	Listening on port 40817
+1539070414170	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539070414223	Marionette	DEBUG	[2147483649] Frame script loaded
+1539070414277	Marionette	DEBUG	[2147483649] Frame script registered
+1539070414346	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1539070418566	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1539070419398	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://testphp.vulnweb.com/
+1539070420209	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://testphp.vulnweb.com/
+[Parent 26776, Gecko_IOThread] WARNING: pipe error (42): Connection reset by peer: file /build/firefox-IVlCbR/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1539070421409	Marionette	INFO	Stopped listening on port 44379
+1539070516312	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.GLBsgpF6cC6X"
+1539070517690	Marionette	INFO	Listening on port 38705
+1539070517809	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539070517865	Marionette	DEBUG	[2147483649] Frame script loaded
+1539070517919	Marionette	DEBUG	[2147483649] Frame script registered
+1539070517966	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1539070518508	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1539070519336	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://testphp.vulnweb.com/
+1539070519587	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://testphp.vulnweb.com/
+1539070525364	Marionette	INFO	Stopped listening on port 38705
+1539070544535	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.dXF9wP9wVnXn"
+1539070545886	Marionette	INFO	Listening on port 43715
+1539070545951	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539070546001	Marionette	DEBUG	[2147483649] Frame script loaded
+1539070546062	Marionette	DEBUG	[2147483649] Frame script registered
+1539070546085	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1539070546591	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1539070547181	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://testphp.vulnweb.com/
+1539070547830	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://testphp.vulnweb.com/
+1539070649948	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.kDmlvrOjGE9P"
+1539070651182	Marionette	INFO	Listening on port 39809
+1539070651281	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539070651335	Marionette	DEBUG	[2147483649] Frame script loaded
+1539070651389	Marionette	DEBUG	[2147483649] Frame script registered
+1539070651453	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1539070652149	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1539070652667	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://testphp.vulnweb.com/
+1539070653066	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://testphp.vulnweb.com/
+[Parent 30157, Gecko_IOThread] WARNING: pipe error (42): Connection reset by peer: file /build/firefox-IVlCbR/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1539070667926	Marionette	INFO	Stopped listening on port 39809
+1539070707895	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.FCwWuuN8Uji7"
+1539070709171	Marionette	INFO	Listening on port 46859
+1539070709206	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539070709258	Marionette	DEBUG	[2147483649] Frame script loaded
+1539070709303	Marionette	DEBUG	[2147483649] Frame script registered
+1539070709328	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1539070710458	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1539070710458	Marionette	DEBUG	[2147483649] Received DOM event unload for about:blank
+1539070710459	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483649
+[Parent 30982, Gecko_IOThread] WARNING: pipe error (42): Connection reset by peer: file /build/firefox-IVlCbR/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1539070711302	Marionette	INFO	Stopped listening on port 46859
+1539070721179	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.x9vAYQCYPTip"
+1539070722567	Marionette	INFO	Listening on port 40245
+1539070722587	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539070722636	Marionette	DEBUG	[2147483649] Frame script loaded
+1539070722637	Marionette	DEBUG	[2147483649] Frame script registered
+1539070722654	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1539070723175	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1539070723667	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://testphp.vulnweb.com/
+1539070723897	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://testphp.vulnweb.com/
+1539070962540	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.aEr7GIIf0DOZ"
+1539070963865	Marionette	INFO	Listening on port 33833
+1539070963975	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539070964021	Marionette	DEBUG	[2147483649] Frame script loaded
+1539070964078	Marionette	DEBUG	[2147483649] Frame script registered
+1539070964145	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1539070964762	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1539070965829	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://testphp.vulnweb.com/
+1539070966101	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://testphp.vulnweb.com/
+1539071091263	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.bxCSsbuSa7pL"
+1539071092672	Marionette	INFO	Listening on port 34687
+1539071092691	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539071092741	Marionette	DEBUG	[2147483649] Frame script loaded
+1539071092799	Marionette	DEBUG	[2147483649] Frame script registered
+1539071092825	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1539071093396	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1539071093911	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://testphp.vulnweb.com/
+1539071094637	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://testphp.vulnweb.com/
+1539071097600	Marionette	INFO	Stopped listening on port 34687
+1539071196284	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.8l4D9M3jytua"
+1539071197838	Marionette	INFO	Listening on port 39023
+1539071197968	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539071198015	Marionette	DEBUG	[2147483649] Frame script loaded
+1539071198045	Marionette	DEBUG	[2147483649] Frame script registered
+1539071198067	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1539071198505	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1539071199295	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://testphp.vulnweb.com/
+1539071199547	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://testphp.vulnweb.com/
+[Parent 29299, Gecko_IOThread] WARNING: pipe error (42): Connection reset by peer: file /build/firefox-IVlCbR/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1539071200397	Marionette	INFO	Stopped listening on port 43715
+[Parent 32685, Gecko_IOThread] WARNING: pipe error (43): Connection reset by peer: file /build/firefox-IVlCbR/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1539071201403	Marionette	INFO	Stopped listening on port 33833
+1539071202511	Marionette	INFO	Stopped listening on port 40245
+[Parent 27614, Gecko_IOThread] WARNING: pipe error (42): Connection reset by peer: file /build/firefox-IVlCbR/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1539071203471	Marionette	INFO	Stopped listening on port 40817
+1539071250909	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.PSN1yrnRvUOL"
+1539071252168	Marionette	INFO	Listening on port 46223
+1539071252382	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539071252430	Marionette	DEBUG	[2147483649] Frame script loaded
+1539071252431	Marionette	DEBUG	[2147483649] Frame script registered
+1539071252447	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1539071253992	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1539071257909	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.woodlandworldwide.com/
+[Parent 2365, Gecko_IOThread] WARNING: pipe error (41): Connection reset by peer: file /build/firefox-IVlCbR/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1539071278267	Marionette	INFO	Stopped listening on port 39023
+1539071287399	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.woodlandworldwide.com/
+1539071308077	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.L8aTfGpPlND2"
+1539071309522	Marionette	INFO	Listening on port 41001
+1539071309588	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539071309630	Marionette	DEBUG	[2147483649] Frame script loaded
+1539071309632	Marionette	DEBUG	[2147483649] Frame script registered
+1539071309717	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1539071312899	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1539071316351	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.woodlandworldwide.com/
+[Parent 3310, Gecko_IOThread] WARNING: pipe error (42): Connection reset by peer: file /build/firefox-IVlCbR/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1539071338684	Marionette	INFO	Stopped listening on port 46223
+1539071344940	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.woodlandworldwide.com/
+
+(/usr/lib/firefox/firefox:4207): dconf-WARNING **: 13:20:58.304: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+JavaScript error: https://www.woodlandworldwide.com/0/media/frontend/js/octa/jQuery_new.js, line 1: SyntaxError: expected expression, got ','
+JavaScript error: https://www.woodlandworldwide.com/0/media/frontend/js/octa/jQuery_new.js line 339 > eval, line 1: ReferenceError: hello is not defined
+JavaScript error: https://www.woodlandworldwide.com/0/media/frontend/js/octa/jQuery_new.js, line 1: SyntaxError: expected expression, got ','
+1539072058953	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.pGUKOJ1zhMKE"
+1539072060413	Marionette	INFO	Listening on port 45807
+1539072060516	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539072060561	Marionette	DEBUG	[2147483649] Frame script loaded
+1539072060562	Marionette	DEBUG	[2147483649] Frame script registered
+1539072060585	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1539072065013	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1539072070995	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.woodlandworldwide.com/
+1539072093716	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.woodlandworldwide.com/
+1539072268582	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.r6vom1mhIrYm"
+1539072269908	Marionette	INFO	Listening on port 46251
+1539072270029	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539072270083	Marionette	DEBUG	[2147483649] Frame script loaded
+1539072270158	Marionette	DEBUG	[2147483649] Frame script registered
+1539072270248	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1539072271589	Marionette	INFO	Stopped listening on port 45807
+1539072273065	Marionette	INFO	Stopped listening on port 41001
+1539072274428	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1539072280380	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.woodlandworldwide.com/
+1539072310917	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.woodlandworldwide.com/
+1539072391528	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Weo8gcb8xbIs"
+1539072393082	Marionette	INFO	Listening on port 38871
+1539072393201	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539072393245	Marionette	DEBUG	[2147483649] Frame script loaded
+1539072393246	Marionette	DEBUG	[2147483649] Frame script registered
+1539072393261	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1539072394968	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1539072398241	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.woodlandworldwide.com/
+1539072418937	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.woodlandworldwide.com/
+[Parent 6106, Gecko_IOThread] WARNING: pipe error (41): Connection reset by peer: file /build/firefox-IVlCbR/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1539072524493	Marionette	INFO	Stopped listening on port 46251
+1539072844218	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.ECVaD38xJ5Ur"
+1539072845532	Marionette	INFO	Listening on port 46379
+1539072845632	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539072845692	Marionette	DEBUG	[2147483649] Frame script loaded
+1539072845763	Marionette	DEBUG	[2147483649] Frame script registered
+1539072845808	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1539072847889	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1539072849825	Marionette	INFO	Stopped listening on port 38871
+1539072853623	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.woodlandworldwide.com/
+1539072890056	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.woodlandworldwide.com/
+1539073046010	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.FRDJcHrKDkJF"
+1539073047385	Marionette	INFO	Listening on port 40531
+1539073047536	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539073047593	Marionette	DEBUG	[2147483649] Frame script loaded
+1539073047596	Marionette	DEBUG	[2147483649] Frame script registered
+1539073047691	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+[Parent 8031, Gecko_IOThread] WARNING: pipe error (42): Connection reset by peer: file /build/firefox-IVlCbR/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1539073049293	Marionette	INFO	Stopped listening on port 46379
+1539073051175	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1539073055580	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.woodlandworldwide.com/
+1539073081478	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.woodlandworldwide.com/
+1539073801430	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.av58SOZQpa1n"
+1539073802782	Marionette	INFO	Listening on port 42237
+1539073803028	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539073803091	Marionette	DEBUG	[2147483649] Frame script loaded
+1539073803101	Marionette	DEBUG	[2147483649] Frame script registered
+1539073803138	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1539073805273	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1539073808082	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.woodlandworldwide.com/
+1539073835590	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.woodlandworldwide.com/
+1539073854163	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.97zTNPHU7OJ3"
+1539073855657	Marionette	INFO	Listening on port 38853
+1539073855683	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539073855731	Marionette	DEBUG	[2147483649] Frame script loaded
+1539073855795	Marionette	DEBUG	[2147483649] Frame script registered
+1539073855856	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+[Parent 10074, Gecko_IOThread] WARNING: pipe error (42): Connection reset by peer: file /build/firefox-IVlCbR/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1539073856960	Marionette	INFO	Stopped listening on port 42237
+1539073857200	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+[Parent 8947, Gecko_IOThread] WARNING: pipe error (42): Connection reset by peer: file /build/firefox-IVlCbR/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1539073859157	Marionette	INFO	Stopped listening on port 40531
+1539073859772	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.woodlandworldwide.com/
+1539073883698	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.woodlandworldwide.com/
+1539073942621	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.TANsaj6Sb6ds"
+1539073943909	Marionette	INFO	Listening on port 33763
+1539073943938	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539073943991	Marionette	DEBUG	[2147483649] Frame script loaded
+1539073944032	Marionette	DEBUG	[2147483649] Frame script registered
+1539073944054	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1539073945482	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1539073947862	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.woodlandworldwide.com/
+[Parent 11006, Gecko_IOThread] WARNING: pipe error (49): Connection reset by peer: file /build/firefox-IVlCbR/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1539073948531	Marionette	INFO	Stopped listening on port 38853
+1539073969361	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.woodlandworldwide.com/
+1539073969460	Marionette	INFO	Stopped listening on port 33763
+[Parent 11937, Gecko_IOThread] WARNING: pipe error (42): Connection reset by peer: file /build/firefox-IVlCbR/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1539079068256	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.oeiaOBlKz3So"
+1539079070151	Marionette	INFO	Listening on port 44997
+1539079070197	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539079070240	Marionette	DEBUG	[2147483649] Frame script loaded
+1539079070240	Marionette	DEBUG	[2147483649] Frame script registered
+1539079070324	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1539079071989	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1539079072658	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://testphp.vulnweb.com/
+1539079072857	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://testphp.vulnweb.com/
+1539079072896	Marionette	INFO	Stopped listening on port 44997
+[Parent 3131, Gecko_IOThread] WARNING: pipe error (49): Connection reset by peer: file /build/firefox-IVlCbR/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1539079083644	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.puFqoFivAhqw"
+1539079085063	Marionette	INFO	Listening on port 43047
+1539079085179	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539079085230	Marionette	DEBUG	[2147483649] Frame script loaded
+1539079085237	Marionette	DEBUG	[2147483649] Frame script registered
+1539079085267	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1539079085765	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1539079086343	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://testphp.vulnweb.com/
+1539079086627	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://testphp.vulnweb.com/
+1539079086642	Marionette	INFO	Stopped listening on port 43047
+[Parent 4013, Gecko_IOThread] WARNING: pipe error (42): Connection reset by peer: file /build/firefox-IVlCbR/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1539079115241	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.fdo3jrLCqDan"
+1539079116727	Marionette	INFO	Listening on port 44317
+1539079116748	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539079116814	Marionette	DEBUG	[2147483649] Frame script loaded
+1539079116814	Marionette	DEBUG	[2147483649] Frame script registered
+1539079116898	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1539079117363	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1539079117929	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://testphp.vulnweb.com/
+1539079118107	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://testphp.vulnweb.com/
+1539079118130	Marionette	INFO	Stopped listening on port 44317
+[Parent 4838, Gecko_IOThread] WARNING: pipe error (42): Connection reset by peer: file /build/firefox-IVlCbR/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1539079177717	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.0s7eZYXIS9lt"
+1539079179039	Marionette	INFO	Listening on port 44197
+1539079179154	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539079179202	Marionette	DEBUG	[2147483649] Frame script loaded
+1539079179203	Marionette	DEBUG	[2147483649] Frame script registered
+1539079179230	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1539079179726	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1539079180332	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://testphp.vulnweb.com/
+1539079180504	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://testphp.vulnweb.com/
+1539079180536	Marionette	INFO	Stopped listening on port 44197
+[Parent 5677, Gecko_IOThread] WARNING: pipe error (42): Connection reset by peer: file /build/firefox-IVlCbR/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1539079210245	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.wOzrRCuLGfQu"
+1539079211662	Marionette	INFO	Listening on port 43041
+1539079211776	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539079211822	Marionette	DEBUG	[2147483649] Frame script loaded
+1539079211823	Marionette	DEBUG	[2147483649] Frame script registered
+1539079211837	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1539079212273	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1539079212765	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://testphp.vulnweb.com/
+1539079212997	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://testphp.vulnweb.com/
+1539079213032	Marionette	INFO	Stopped listening on port 43041
