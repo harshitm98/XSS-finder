@@ -448,3 +448,18 @@ JavaScript error: https://www.woodlandworldwide.com/0/media/frontend/js/octa/jQu
 1539079212765	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://testphp.vulnweb.com/
 1539079212997	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://testphp.vulnweb.com/
 1539079213032	Marionette	INFO	Stopped listening on port 43041
+1539080011379	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.mq2aH9Z6DzT8"
+1539080012700	Marionette	INFO	Listening on port 39761
+1539080012873	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539080012943	Marionette	DEBUG	[2147483649] Frame script loaded
+1539080012948	Marionette	DEBUG	[2147483649] Frame script registered
+1539080013068	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1539080013757	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1539080014684	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://testphp.vulnweb.com/
+1539080014910	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://testphp.vulnweb.com/
+1539080014973	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for http://testphp.vulnweb.com/
+1539080015368	Marionette	DEBUG	[2147483649] Received DOM event pagehide for http://testphp.vulnweb.com/
+1539080015372	Marionette	DEBUG	[2147483649] Received DOM event unload for http://testphp.vulnweb.com/
+1539080015686	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://testphp.vulnweb.com/search.php?test=query
+1539080016088	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://testphp.vulnweb.com/search.php?test=query
+1539080016121	Marionette	INFO	Stopped listening on port 39761
