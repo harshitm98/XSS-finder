@@ -6,10 +6,9 @@ from selenium.common.exceptions import NoAlertPresentException
 profile = webdriver.FirefoxProfile('/home/fake_batman_/.mozilla/firefox/x2n55od1.default')
 webdriver.DesiredCapabilities.FIREFOX["unexpectedAlertBehaviour"] = "accept"
 driver = webdriver.Firefox(firefox_profile=profile)
-# url = 'http://testphp.vulnweb.com/'
-# url = 'https://www.woodlandworldwide.com/'
+url = 'http://testphp.vulnweb.com/'
+#url = 'https://www.woodlandworldwide.com/'
 destination_url = 'https://www.woodlandworldwide.com/'
-url = 'https://www.lenovo.com/in/en/laptops/c/LAPTOPS'
 driver.get(url)
 html = driver.page_source
 input_counter = 0
@@ -20,7 +19,27 @@ reflected_counter = 0
 reflected_tester = "I am batman"
 # [text, 'id', number]
 list_of_input_tags = []
+list_of_urls = []
 
+def spidering(driver, url):
+    driver.get(url)
+    html_page = driver.page_source
+    while html_page.find('<a') != -1:
+        anchor_tag = html_page[html_page.find('<a'): html_page.find('>', html_page.find('<a') + 1)]
+        anchor_tag = anchor_tag[anchor_tag.find("href"):]
+        anchor_tag = anchor_tag[anchor_tag.find("\"")+1:]
+        anchor_tag = anchor_tag[:anchor_tag.find("\n")]
+        if anchor_tag.find('www') == -1 and anchor_tag.find('http') == -1 and anchor_tag.find(";") == -1 \
+                 and anchor_tag.find("#") == -1 and anchor_tag.find(":") == -1:
+            if anchor_tag.find('.') or anchor_tag.find('/'):
+                list_of_urls.append(anchor_tag)
+                print(anchor_tag)
+        html_page = html_page[html_page.find('<a') + 1:]
+    print(list_of_urls)
+
+
+spidering(driver, url)
+exit(1)
 
 def XSS_checker(list_of_names_, button_name):
     with open("payloads") as file:
@@ -157,4 +176,5 @@ for input_tag in list_of_input_tags:
 
 
 # TODO: Implement spidering and go to other pages and implement the same
+
 

@@ -2012,3 +2012,465 @@ JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-120783320-1, 
 1539149953119	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483656
 1539149953121	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483660
 1539149956806	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.lenovo.com/in/en/laptops/c/LAPTOPS
+1539154772192	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.D9VE6gdMJwQk"
+1539154774367	Marionette	INFO	Listening on port 42131
+1539154774605	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539154774669	Marionette	DEBUG	[2147483649] Frame script loaded
+1539154774672	Marionette	DEBUG	[2147483649] Frame script registered
+1539154774749	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1539154775961	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+JavaScript error: https://www.lenovo.com/in/en/laptops/c/LAPTOPS, line 2137: SyntaxError: expected expression, got '<'
+1539154779314	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.lenovo.com/in/en/laptops/c/LAPTOPS
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-120783320-1, line 74: unreachable code after return statement
+1539154782512	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483655
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-120783320-1, line 74: unreachable code after return statement
+1539154784894	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483656
+1539154784895	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483660
+1539154787032	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.lenovo.com/in/en/laptops/c/LAPTOPS
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x560027,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 11606, Gecko_IOThread] WARNING: pipe error (48): Connection reset by peer: file /build/firefox-IVlCbR/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1539154788885	Marionette	INFO	Stopped listening on port 42131
+1539154806125	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.QnYUcGgQHu5S"
+1539154807926	Marionette	INFO	Listening on port 32971
+1539154807942	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539154808009	Marionette	DEBUG	[2147483649] Frame script loaded
+1539154808202	Marionette	DEBUG	[2147483649] Frame script registered
+1539154808265	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1539154808940	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1539154810607	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.woodlandworldwide.com/
+1539154816431	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.woodlandworldwide.com/
+1539154816781	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1539154816860	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://www.woodlandworldwide.com/
+1539154817338	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://www.woodlandworldwide.com/
+1539154817339	Marionette	DEBUG	[2147483649] Received DOM event unload for https://www.woodlandworldwide.com/
+JavaScript error: https://www.woodlandworldwide.com/0/media/frontend/js/octa/jQuery_new.js, line 1: SyntaxError: missing } after property list
+JavaScript note: https://www.woodlandworldwide.com/0/media/frontend/js/octa/jQuery_new.js, line 1: { opened at line 1, column 23
+1539154818726	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.woodlandworldwide.com/wnew/faces/search.jsp?searchkey=I%20am%20batman&clg=10
+1539154818747	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.woodlandworldwide.com/wnew/faces/search.jsp?searchkey=I%20am%20batman&clg=10
+1539154818808	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://www.woodlandworldwide.com/wnew/faces/search.jsp?searchkey=I%20am%20batman&clg=10
+1539154819178	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://www.woodlandworldwide.com/wnew/faces/search.jsp?searchkey=I%20am%20batman&clg=10
+1539154819407	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.woodlandworldwide.com/
+1539154819648	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.woodlandworldwide.com/
+1539154819939	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1539154820048	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://www.woodlandworldwide.com/
+1539154820213	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://www.woodlandworldwide.com/
+1539154820214	Marionette	DEBUG	[2147483649] Received DOM event unload for https://www.woodlandworldwide.com/
+1539154820466	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://www.woodlandworldwide.com/wnew/faces/search.jsp?searchkey=%3Cscript%3Ealert(1)%3C/script%3E&clg=10
+1539154820797	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://www.woodlandworldwide.com/wnew/faces/search.jsp?searchkey=%3Cscript%3Ealert(1)%3C/script%3E&clg=10
+1539154820798	Marionette	DEBUG	[2147483649] Received DOM event unload for https://www.woodlandworldwide.com/wnew/faces/search.jsp?searchkey=%3Cscript%3Ealert(1)%3C/script%3E&clg=10
+1539154820972	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.woodlandworldwide.com/
+1539154821209	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.woodlandworldwide.com/
+1539154821493	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1539154821583	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://www.woodlandworldwide.com/
+1539154821765	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://www.woodlandworldwide.com/
+1539154821768	Marionette	DEBUG	[2147483649] Received DOM event unload for https://www.woodlandworldwide.com/
+1539154821982	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://www.woodlandworldwide.com/wnew/faces/search.jsp?searchkey=%3C/ScrIpt%3E%3Cscript%3Ealert(1)%3C/script%3E&clg=10
+1539154822170	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://www.woodlandworldwide.com/wnew/faces/search.jsp?searchkey=%3C/ScrIpt%3E%3Cscript%3Ealert(1)%3C/script%3E&clg=10
+1539154822170	Marionette	DEBUG	[2147483649] Received DOM event unload for https://www.woodlandworldwide.com/wnew/faces/search.jsp?searchkey=%3C/ScrIpt%3E%3Cscript%3Ealert(1)%3C/script%3E&clg=10
+1539154822322	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.woodlandworldwide.com/
+1539154822574	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.woodlandworldwide.com/
+1539154822851	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1539154822934	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://www.woodlandworldwide.com/
+1539154823195	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://www.woodlandworldwide.com/
+1539154823196	Marionette	DEBUG	[2147483649] Received DOM event unload for https://www.woodlandworldwide.com/
+1539154823360	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://www.woodlandworldwide.com/wnew/faces/search.jsp?searchkey=%22%3E%3Cscript%3Ealert(1)%3C/script%3E&clg=10
+1539154823425	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://www.woodlandworldwide.com/wnew/faces/search.jsp?searchkey=%22%3E%3Cscript%3Ealert(1)%3C/script%3E&clg=10
+1539154823812	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://www.woodlandworldwide.com/wnew/faces/search.jsp?searchkey=%22%3E%3Cscript%3Ealert(1)%3C/script%3E&clg=10
+1539154823813	Marionette	DEBUG	[2147483649] Received DOM event unload for https://www.woodlandworldwide.com/wnew/faces/search.jsp?searchkey=%22%3E%3Cscript%3Ealert(1)%3C/script%3E&clg=10
+1539154823984	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.woodlandworldwide.com/
+1539154824283	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.woodlandworldwide.com/
+1539154824553	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1539154824661	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://www.woodlandworldwide.com/
+1539154824842	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://www.woodlandworldwide.com/
+1539154824846	Marionette	DEBUG	[2147483649] Received DOM event unload for https://www.woodlandworldwide.com/
+1539154825112	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://www.woodlandworldwide.com/wnew/faces/search.jsp?searchkey=%27%20%27%3E%3Cscript%3Ealert(1)%3C/script%3E&clg=10
+1539154825507	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://www.woodlandworldwide.com/wnew/faces/search.jsp?searchkey=%27%20%27%3E%3Cscript%3Ealert(1)%3C/script%3E&clg=10
+1539154825507	Marionette	DEBUG	[2147483649] Received DOM event unload for https://www.woodlandworldwide.com/wnew/faces/search.jsp?searchkey=%27%20%27%3E%3Cscript%3Ealert(1)%3C/script%3E&clg=10
+1539154825649	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.woodlandworldwide.com/
+1539154825874	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.woodlandworldwide.com/
+1539154840835	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.siZaow4QtPI0"
+1539154842450	Marionette	INFO	Listening on port 40179
+1539154842560	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539154842619	Marionette	DEBUG	[2147483649] Frame script loaded
+1539154842690	Marionette	DEBUG	[2147483649] Frame script registered
+1539154842714	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1539154843247	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1539154843761	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://testphp.vulnweb.com/
+1539154843962	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://testphp.vulnweb.com/
+1539154844091	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for http://testphp.vulnweb.com/
+1539154844372	Marionette	DEBUG	[2147483649] Received DOM event pagehide for http://testphp.vulnweb.com/
+1539154844375	Marionette	DEBUG	[2147483649] Received DOM event unload for http://testphp.vulnweb.com/
+1539154844706	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://testphp.vulnweb.com/search.php?test=query
+1539154845087	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://testphp.vulnweb.com/search.php?test=query
+1539154845106	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for http://testphp.vulnweb.com/search.php?test=query
+1539154845496	Marionette	DEBUG	[2147483649] Received DOM event pagehide for http://testphp.vulnweb.com/search.php?test=query
+1539154845927	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://testphp.vulnweb.com/
+1539154846323	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://testphp.vulnweb.com/
+1539154846433	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for http://testphp.vulnweb.com/
+1539154846632	Marionette	DEBUG	[2147483649] Received DOM event pagehide for http://testphp.vulnweb.com/
+1539154846637	Marionette	DEBUG	[2147483649] Received DOM event unload for http://testphp.vulnweb.com/
+1539154847051	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for http://testphp.vulnweb.com/search.php?test=query
+1539154847256	Marionette	DEBUG	[2147483649] Received DOM event pagehide for http://testphp.vulnweb.com/search.php?test=query
+1539154847257	Marionette	DEBUG	[2147483649] Received DOM event unload for http://testphp.vulnweb.com/search.php?test=query
+1539154847546	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://testphp.vulnweb.com/
+1539154847951	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://testphp.vulnweb.com/
+1539154848113	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for http://testphp.vulnweb.com/
+1539154848359	Marionette	DEBUG	[2147483649] Received DOM event pagehide for http://testphp.vulnweb.com/
+1539154848360	Marionette	DEBUG	[2147483649] Received DOM event unload for http://testphp.vulnweb.com/
+1539154848875	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for http://testphp.vulnweb.com/search.php?test=query
+1539154849080	Marionette	DEBUG	[2147483649] Received DOM event pagehide for http://testphp.vulnweb.com/search.php?test=query
+1539154849082	Marionette	DEBUG	[2147483649] Received DOM event unload for http://testphp.vulnweb.com/search.php?test=query
+1539154849388	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://testphp.vulnweb.com/
+1539154849857	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://testphp.vulnweb.com/
+1539154849996	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for http://testphp.vulnweb.com/
+1539154850206	Marionette	DEBUG	[2147483649] Received DOM event pagehide for http://testphp.vulnweb.com/
+1539154850207	Marionette	DEBUG	[2147483649] Received DOM event unload for http://testphp.vulnweb.com/
+1539154850693	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for http://testphp.vulnweb.com/search.php?test=query
+1539154850906	Marionette	DEBUG	[2147483649] Received DOM event pagehide for http://testphp.vulnweb.com/search.php?test=query
+1539154850911	Marionette	DEBUG	[2147483649] Received DOM event unload for http://testphp.vulnweb.com/search.php?test=query
+1539154851230	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://testphp.vulnweb.com/
+1539154851437	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://testphp.vulnweb.com/
+1539154851530	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for http://testphp.vulnweb.com/
+1539154851722	Marionette	DEBUG	[2147483649] Received DOM event pagehide for http://testphp.vulnweb.com/
+1539154851724	Marionette	DEBUG	[2147483649] Received DOM event unload for http://testphp.vulnweb.com/
+1539154852063	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for http://testphp.vulnweb.com/search.php?test=query
+1539154852260	Marionette	DEBUG	[2147483649] Received DOM event pagehide for http://testphp.vulnweb.com/search.php?test=query
+1539154852263	Marionette	DEBUG	[2147483649] Received DOM event unload for http://testphp.vulnweb.com/search.php?test=query
+1539154852678	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://testphp.vulnweb.com/
+1539154852869	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://testphp.vulnweb.com/
+1539154852994	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for http://testphp.vulnweb.com/
+1539154853184	Marionette	DEBUG	[2147483649] Received DOM event pagehide for http://testphp.vulnweb.com/
+1539154853187	Marionette	DEBUG	[2147483649] Received DOM event unload for http://testphp.vulnweb.com/
+1539154853578	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for http://testphp.vulnweb.com/search.php?test=query
+1539154853773	Marionette	DEBUG	[2147483649] Received DOM event pagehide for http://testphp.vulnweb.com/search.php?test=query
+1539154853775	Marionette	DEBUG	[2147483649] Received DOM event unload for http://testphp.vulnweb.com/search.php?test=query
+1539154854054	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://testphp.vulnweb.com/
+1539154854344	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://testphp.vulnweb.com/
+1539154854486	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for http://testphp.vulnweb.com/
+1539154854704	Marionette	DEBUG	[2147483649] Received DOM event pagehide for http://testphp.vulnweb.com/
+1539154854705	Marionette	DEBUG	[2147483649] Received DOM event unload for http://testphp.vulnweb.com/
+1539154855120	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://testphp.vulnweb.com/search.php?test=query
+1539154855527	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://testphp.vulnweb.com/search.php?test=query
+1539154855545	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for http://testphp.vulnweb.com/search.php?test=query
+1539154855939	Marionette	DEBUG	[2147483649] Received DOM event pagehide for http://testphp.vulnweb.com/search.php?test=query
+1539154856360	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://testphp.vulnweb.com/
+1539154856756	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://testphp.vulnweb.com/
+1539154856845	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for http://testphp.vulnweb.com/
+1539154857065	Marionette	DEBUG	[2147483649] Received DOM event pagehide for http://testphp.vulnweb.com/
+1539154857066	Marionette	DEBUG	[2147483649] Received DOM event unload for http://testphp.vulnweb.com/
+1539154857377	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://testphp.vulnweb.com/search.php?test=query
+1539154857786	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://testphp.vulnweb.com/search.php?test=query
+1539154857811	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for http://testphp.vulnweb.com/search.php?test=query
+1539154858171	Marionette	DEBUG	[2147483649] Received DOM event pagehide for http://testphp.vulnweb.com/search.php?test=query
+1539154858405	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://testphp.vulnweb.com/
+1539154858603	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://testphp.vulnweb.com/
+1539154858724	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for http://testphp.vulnweb.com/
+1539154858945	Marionette	DEBUG	[2147483649] Received DOM event pagehide for http://testphp.vulnweb.com/
+1539154858948	Marionette	DEBUG	[2147483649] Received DOM event unload for http://testphp.vulnweb.com/
+1539154859225	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://testphp.vulnweb.com/search.php?test=query
+1539154859650	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://testphp.vulnweb.com/search.php?test=query
+1539154859668	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for http://testphp.vulnweb.com/search.php?test=query
+1539154860035	Marionette	DEBUG	[2147483649] Received DOM event pagehide for http://testphp.vulnweb.com/search.php?test=query
+1539154861057	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://testphp.vulnweb.com/
+1539154861066	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://testphp.vulnweb.com/
+1539154861183	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for http://testphp.vulnweb.com/
+1539154861378	Marionette	DEBUG	[2147483649] Received DOM event pagehide for http://testphp.vulnweb.com/
+1539154861380	Marionette	DEBUG	[2147483649] Received DOM event unload for http://testphp.vulnweb.com/
+1539154861688	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://testphp.vulnweb.com/search.php?test=query
+1539154861881	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://testphp.vulnweb.com/search.php?test=query
+1539154861912	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for http://testphp.vulnweb.com/search.php?test=query
+1539154862290	Marionette	DEBUG	[2147483649] Received DOM event pagehide for http://testphp.vulnweb.com/search.php?test=query
+1539154862706	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://testphp.vulnweb.com/
+1539154862901	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://testphp.vulnweb.com/
+1539154863057	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for http://testphp.vulnweb.com/
+1539154863270	Marionette	DEBUG	[2147483649] Received DOM event pagehide for http://testphp.vulnweb.com/
+1539154863271	Marionette	DEBUG	[2147483649] Received DOM event unload for http://testphp.vulnweb.com/
+1539154863526	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://testphp.vulnweb.com/search.php?test=query
+1539154864000	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for http://testphp.vulnweb.com/search.php?test=query
+1539154864540	Marionette	DEBUG	[2147483649] Received DOM event pagehide for http://testphp.vulnweb.com/search.php?test=query
+1539154865767	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://testphp.vulnweb.com/
+1539154866178	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://testphp.vulnweb.com/
+1539154866324	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for http://testphp.vulnweb.com/
+1539154868024	Marionette	DEBUG	[2147483649] Received DOM event pagehide for http://testphp.vulnweb.com/
+1539154868026	Marionette	DEBUG	[2147483649] Received DOM event unload for http://testphp.vulnweb.com/
+1539154868266	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://testphp.vulnweb.com/search.php?test=query
+1539154868752	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for http://testphp.vulnweb.com/search.php?test=query
+1539154869078	Marionette	DEBUG	[2147483649] Received DOM event pagehide for http://testphp.vulnweb.com/search.php?test=query
+1539154870023	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://testphp.vulnweb.com/
+1539154870279	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://testphp.vulnweb.com/
+1539154870363	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for http://testphp.vulnweb.com/
+1539154870586	Marionette	DEBUG	[2147483649] Received DOM event pagehide for http://testphp.vulnweb.com/
+1539154870590	Marionette	DEBUG	[2147483649] Received DOM event unload for http://testphp.vulnweb.com/
+1539154870890	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://testphp.vulnweb.com/search.php?test=query
+1539154871792	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for http://testphp.vulnweb.com/search.php?test=query
+1539154872135	Marionette	DEBUG	[2147483649] Received DOM event pagehide for http://testphp.vulnweb.com/search.php?test=query
+1539154872529	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://testphp.vulnweb.com/
+1539154872938	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://testphp.vulnweb.com/
+1539154873020	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for http://testphp.vulnweb.com/
+1539154873240	Marionette	DEBUG	[2147483649] Received DOM event pagehide for http://testphp.vulnweb.com/
+1539154873240	Marionette	DEBUG	[2147483649] Received DOM event unload for http://testphp.vulnweb.com/
+1539154873452	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://testphp.vulnweb.com/search.php?test=query
+1539154873727	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for http://testphp.vulnweb.com/search.php?test=query
+1539154873960	Marionette	DEBUG	[2147483649] Received DOM event pagehide for http://testphp.vulnweb.com/search.php?test=query
+1539154874352	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://testphp.vulnweb.com/
+1539154874452	Marionette	DEBUG	[2147483649] Received DOM event unload for http://testphp.vulnweb.com/
+1539154874462	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483649
+[Parent 13329, Gecko_IOThread] WARNING: pipe error (42): Connection reset by peer: file /build/firefox-IVlCbR/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1539154874957	Marionette	INFO	Stopped listening on port 40179
+1539155698063	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.te9EJaY5fOai"
+1539155699377	Marionette	INFO	Listening on port 43609
+1539155699511	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539155699566	Marionette	DEBUG	[2147483649] Frame script loaded
+1539155699627	Marionette	DEBUG	[2147483649] Frame script registered
+1539155699683	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1539155700252	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1539155700906	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://testphp.vulnweb.com/
+1539155701128	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://testphp.vulnweb.com/
+1539155713322	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Uemow5oZKbSV"
+1539155714603	Marionette	INFO	Listening on port 42263
+1539155714721	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539155714778	Marionette	DEBUG	[2147483649] Frame script loaded
+1539155714793	Marionette	DEBUG	[2147483649] Frame script registered
+1539155714891	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1539155715442	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1539155715943	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://testphp.vulnweb.com/
+[Parent 14407, Gecko_IOThread] WARNING: pipe error (42): Connection reset by peer: file /build/firefox-IVlCbR/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1539155717791	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://testphp.vulnweb.com/
+1539155717857	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for http://testphp.vulnweb.com/
+1539155718137	Marionette	INFO	Stopped listening on port 43609
+1539155718287	Marionette	DEBUG	[2147483649] Received DOM event pagehide for http://testphp.vulnweb.com/
+1539155718614	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://testphp.vulnweb.com/
+1539155718809	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://testphp.vulnweb.com/
+1539155780117	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.XQIeYRIysG4D"
+1539155781367	Marionette	INFO	Listening on port 39769
+1539155781492	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539155781551	Marionette	DEBUG	[2147483649] Frame script loaded
+1539155781552	Marionette	DEBUG	[2147483649] Frame script registered
+1539155781659	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1539155782113	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1539155782722	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://testphp.vulnweb.com/
+1539155783349	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://testphp.vulnweb.com/
+1539155783395	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for http://testphp.vulnweb.com/
+1539155783958	Marionette	DEBUG	[2147483649] Received DOM event pagehide for http://testphp.vulnweb.com/
+1539155784372	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://testphp.vulnweb.com/
+1539155784570	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://testphp.vulnweb.com/
+1539155852719	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.0nwSGG8GrJtN"
+1539155854016	Marionette	INFO	Listening on port 40735
+1539155854033	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539155854082	Marionette	DEBUG	[2147483649] Frame script loaded
+1539155854141	Marionette	DEBUG	[2147483649] Frame script registered
+1539155854199	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1539155854694	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1539155855642	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://testphp.vulnweb.com/
+1539155856260	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://testphp.vulnweb.com/
+1539155856300	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for http://testphp.vulnweb.com/
+1539155856664	Marionette	DEBUG	[2147483649] Received DOM event pagehide for http://testphp.vulnweb.com/
+[Parent 16061, Gecko_IOThread] WARNING: pipe error (41): Connection reset by peer: file /build/firefox-IVlCbR/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1539155856875	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://testphp.vulnweb.com/
+1539155857087	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://testphp.vulnweb.com/
+1539155857179	Marionette	INFO	Stopped listening on port 39769
+1539156523272	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.2T4NHIcDTpLc"
+1539156524556	Marionette	INFO	Listening on port 41443
+1539156524591	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539156524640	Marionette	DEBUG	[2147483649] Frame script loaded
+1539156524686	Marionette	DEBUG	[2147483649] Frame script registered
+1539156524815	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1539156525755	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1539156527265	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.woodlandworldwide.com/
+1539156531249	Marionette	DEBUG	[2147483653] Frame script loaded
+1539156531337	Marionette	DEBUG	[2147483653] Frame script registered
+1539156533456	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.woodlandworldwide.com/
+1539156533526	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://www.woodlandworldwide.com/
+1539156533720	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://www.woodlandworldwide.com/
+1539156534220	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.woodlandworldwide.com/
+1539156534390	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.woodlandworldwide.com/
+1539156614059	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.f6kTBFuOgRv1"
+1539156614754	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.okxZxqZixnKD"
+1539156615624	Marionette	INFO	Listening on port 37459
+1539156615902	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539156615962	Marionette	DEBUG	[2147483649] Frame script loaded
+1539156615969	Marionette	DEBUG	[2147483649] Frame script registered
+1539156616009	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1539156616509	Marionette	INFO	Listening on port 42441
+1539156616714	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539156616779	Marionette	DEBUG	[2147483649] Frame script loaded
+1539156616785	Marionette	DEBUG	[2147483649] Frame script registered
+1539156616893	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1539156616997	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1539156618043	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1539156618051	Marionette	DEBUG	[2147483649] Received DOM event unload for https://www.woodlandworldwide.com/
+1539156618069	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483649
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Child 18819, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-IVlCbR/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1539156618992	Marionette	INFO	Stopped listening on port 37459
+1539156619283	Marionette	DEBUG	[2147483649] Received DOM event unload for https://www.woodlandworldwide.com/
+1539156619293	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483649
+1539156620121	Marionette	INFO	Stopped listening on port 42441
+1539156623599	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.WfOxJKmBUp78"
+1539156624910	Marionette	INFO	Listening on port 38069
+1539156625021	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539156625073	Marionette	DEBUG	[2147483649] Frame script loaded
+1539156625130	Marionette	DEBUG	[2147483649] Frame script registered
+1539156625180	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1539156626075	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1539156627827	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.woodlandworldwide.com/
+1539156636374	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.woodlandworldwide.com/
+1539156636411	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://www.woodlandworldwide.com/
+1539156637355	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://www.woodlandworldwide.com/
+1539156637497	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.woodlandworldwide.com/
+1539156637964	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.woodlandworldwide.com/
+1539156825811	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.hV89D3lLVryf"
+1539156827079	Marionette	INFO	Listening on port 44439
+1539156827211	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539156827258	Marionette	DEBUG	[2147483649] Frame script loaded
+1539156827265	Marionette	DEBUG	[2147483649] Frame script registered
+1539156827363	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1539156829391	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1539156831674	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.woodlandworldwide.com/
+1539156841479	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.woodlandworldwide.com/
+1539156841616	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://www.woodlandworldwide.com/
+1539156842309	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://www.woodlandworldwide.com/
+1539156842537	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.woodlandworldwide.com/
+1539156843521	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.woodlandworldwide.com/
+1539156935954	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.n7IMJ5cDIL3m"
+1539156937235	Marionette	INFO	Listening on port 42531
+1539156937350	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539156937407	Marionette	DEBUG	[2147483649] Frame script loaded
+1539156937413	Marionette	DEBUG	[2147483649] Frame script registered
+1539156937450	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1539156937951	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1539156939078	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.woodlandworldwide.com/
+[Parent 20383, Gecko_IOThread] WARNING: pipe error (42): Connection reset by peer: file /build/firefox-IVlCbR/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1539156940800	Marionette	INFO	Stopped listening on port 38069
+[Parent 21307, Gecko_IOThread] WARNING: pipe error (42): Connection reset by peer: file /build/firefox-IVlCbR/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1539156942307	Marionette	INFO	Stopped listening on port 44439
+1539156945707	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.woodlandworldwide.com/
+1539156945855	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://www.woodlandworldwide.com/
+1539156946087	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://www.woodlandworldwide.com/
+1539156946301	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.woodlandworldwide.com/
+1539156946597	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.woodlandworldwide.com/
+1539156952461	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.YCXFOSBFwSb2"
+1539156953896	Marionette	INFO	Listening on port 41415
+1539156954047	Marionette	INFO	Stopped listening on port 42531
+1539156954147	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539156954231	Marionette	DEBUG	[2147483649] Frame script loaded
+1539156954240	Marionette	DEBUG	[2147483649] Frame script registered
+1539156954275	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1539156954738	Marionette	INFO	Stopped listening on port 41443
+1539156955038	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+[Parent 16920, Gecko_IOThread] WARNING: pipe error (42): Connection reset by peer: file /build/firefox-IVlCbR/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1539156956183	Marionette	INFO	Stopped listening on port 40735
+1539156956822	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.woodlandworldwide.com/
+1539156962462	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.woodlandworldwide.com/
+1539156962603	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://www.woodlandworldwide.com/
+1539156963240	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://www.woodlandworldwide.com/
+1539156963414	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.woodlandworldwide.com/
+1539156963623	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.woodlandworldwide.com/
+1539157064367	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.QL4gFYHSjyzL"
+1539157065680	Marionette	INFO	Stopped listening on port 41415
+1539157065795	Marionette	INFO	Listening on port 45169
+1539157065914	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539157065962	Marionette	DEBUG	[2147483649] Frame script loaded
+1539157065968	Marionette	DEBUG	[2147483649] Frame script registered
+1539157065998	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1539157066672	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1539157067680	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.woodlandworldwide.com/
+1539157074143	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.woodlandworldwide.com/
+1539157074305	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://www.woodlandworldwide.com/
+1539157074593	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://www.woodlandworldwide.com/
+1539157074800	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.woodlandworldwide.com/
+1539157075140	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.woodlandworldwide.com/
+1539157114784	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.fFHDWXdrEVHa"
+1539157116123	Marionette	INFO	Listening on port 46737
+1539157116224	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539157116270	Marionette	DEBUG	[2147483649] Frame script loaded
+1539157116330	Marionette	DEBUG	[2147483649] Frame script registered
+1539157116381	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1539157118954	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1539157120290	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.woodlandworldwide.com/
+[Parent 23875, Gecko_IOThread] WARNING: pipe error (42): Connection reset by peer: file /build/firefox-IVlCbR/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1539157122282	Marionette	INFO	Stopped listening on port 45169
+1539157127388	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.woodlandworldwide.com/
+1539157127534	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://www.woodlandworldwide.com/
+1539157127748	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://www.woodlandworldwide.com/
+1539157127908	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483653
+1539157127935	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.woodlandworldwide.com/
+1539157128298	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.woodlandworldwide.com/
+1539157200744	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.dBdzbsBshD8g"
+1539157201985	Marionette	INFO	Listening on port 42485
+1539157202111	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539157202160	Marionette	DEBUG	[2147483649] Frame script loaded
+1539157202170	Marionette	DEBUG	[2147483649] Frame script registered
+1539157202260	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1539157202936	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1539157204249	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.woodlandworldwide.com/
+[Parent 24711, Gecko_IOThread] WARNING: pipe error (42): Connection reset by peer: file /build/firefox-IVlCbR/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1539157207740	Marionette	INFO	Stopped listening on port 46737
+1539157214012	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.woodlandworldwide.com/
+1539157214111	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://www.woodlandworldwide.com/
+1539157214360	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://www.woodlandworldwide.com/
+1539157214808	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.woodlandworldwide.com/
+1539157214951	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.woodlandworldwide.com/
+1539157229227	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.8inb74selR0I"
+1539157230622	Marionette	INFO	Listening on port 42641
+1539157230645	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539157230705	Marionette	DEBUG	[2147483649] Frame script loaded
+1539157230771	Marionette	DEBUG	[2147483649] Frame script registered
+1539157230814	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1539157231459	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1539157231748	Marionette	INFO	Stopped listening on port 42485
+1539157232434	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://testphp.vulnweb.com/
+1539157232650	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://testphp.vulnweb.com/
+1539157232724	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for http://testphp.vulnweb.com/
+1539157233787	Marionette	DEBUG	[2147483649] Received DOM event pagehide for http://testphp.vulnweb.com/
+1539157234651	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://testphp.vulnweb.com/
+1539157234676	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://testphp.vulnweb.com/
