@@ -49,25 +49,25 @@ def XSS_checker(url, list_of_names_, button_name, id_name_counter):
                 button_field = driver.find_element_by_name(button_name)
             button_field.click()
             number += 1
-            if number % 10 == 0 and success == 1:
-                go_ahead = input("********This website is vulnerable to XSS*******\n"
-                                 "1. To continue the attack on this same page.\n"
-                                 "2. To go other directories.\n"
-                                 "3. Leave this web page and exit.\n"
-                                 "Enter your input here: ").lower()
-                if go_ahead == 1:
-                    return 1
-                elif go_ahead == 2:
-                    return 2
-                elif go_ahead == 3:
-                    driver.close()
-                    exit(1)
             try:
                 driver.switch_to.alert.accept()
                 print("Payload number: {}\tStatus: {}".format(number, "Success"))
                 success = 1
             except NoAlertPresentException:
                 print("Payload number: {}\tStatus: {}".format(number, "Not success"))
+            if number % 10 == 0 and success == 1:
+                go_ahead = input("********This website is vulnerable to XSS*******\n"
+                                 "1. To continue the attack on this same page.\n"
+                                 "2. To go other directories.\n"
+                                 "3. Leave this web page and exit.\n"
+                                 "Enter your input here: ").lower()
+                if go_ahead == '1':
+                    return 1
+                elif go_ahead == '2':
+                    return 2
+                elif go_ahead == '3':
+                    driver.close()
+                    exit(1)
         except Exception:
             continue
 
@@ -186,18 +186,24 @@ def input_finder(driver, url):
                 print("Wrong button please check...")
 
 
-
-
-
 def main():
-    url = 'https://www.woodlandworldwide.com'
     # url = 'http://testphp.vulnweb.com'
+    url = 'https://www.woodlandworldwide.com'
+    # url = 'https://www.facebook.com'
     spidering(driver, url)
     for path in list_of_urls:
         updated_url = url
-        if path[0] != '/':
-            url += '/' + path
-        else:
-            url += path
-        input_finder(driver, url)
+        try:
+            if path[0] != '/':
+                updated_url += '/' + path
+            else:
+                updated_url += path
+            try:
+                input_finder(driver, updated_url)
+            except Exception:
+                print("Cannot use this tool on this link...")
+        except IndexError:
+            continue
+
+
 main()
